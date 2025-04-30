@@ -1,2 +1,2 @@
 # StressdetectionSleepPosition
-Stress Dtetction based on sleep position
+Stress Detetction based on sleep position
