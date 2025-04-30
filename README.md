@@ -1,5 +1,8 @@
 # Pose-Based Stress Level Monitoring using MediaPipe (IoT Project)
 
+![image](https://github.com/user-attachments/assets/6bd3c3e2-e97e-46c5-b99f-ca48d71e13ed)
+
+
 ## Overview
 
 This project is an exploration into using computer vision for understanding human poses and potentially correlating them with stress levels. It utilizes Google's MediaPipe library to detect and analyze human pose structures from a live camera feed. By calculating key body points and joint angles, the system classifies the detected pose into predefined categories. The long-term goal is to associate these poses with corresponding stress indicators and generate an overall stress report based on observations over time.
